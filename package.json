@@ -1,0 +1,19 @@
+{
+  "name": "custom-sort",
+  "version": "1.0.0",
+  "description": "A really cool app for sorting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiveache/custom-sort.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fiveache/custom-sort/issues"
+  },
+  "homepage": "https://github.com/fiveache/custom-sort#readme"
+}
